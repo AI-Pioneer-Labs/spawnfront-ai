@@ -1,0 +1,10 @@
+{
+  "name": "spawnfront",
+  "version": "1.0.0",
+  "description": "Use Spawnfront from Claude Code: the Spawnfront connector (sign in and choose what it can reach on Spawnfront) and guided skills for your profile, news, scrims, tournaments and store.",
+  "author": { "name": "AI Pioneer Labs" },
+  "homepage": "https://spawnfront.com/help/connect-an-ai-assistant",
+  "repository": "https://github.com/AI-Pioneer-Labs/spawnfront-ai",
+  "license": "MIT",
+  "keywords": ["spawnfront", "esports", "mcp", "teams", "scrims", "tournaments"]
+}

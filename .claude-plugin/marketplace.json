@@ -1,0 +1,15 @@
+{
+  "name": "spawnfront",
+  "owner": { "name": "AI Pioneer Labs" },
+  "metadata": {
+    "description": "Spawnfront's plugin for Claude Code: the Spawnfront connector and its guided skills."
+  },
+  "plugins": [
+    {
+      "name": "spawnfront",
+      "source": "./plugins/spawnfront",
+      "description": "The Spawnfront connector and guided skills for your profile, news, scrims, tournaments and store.",
+      "category": "productivity"
+    }
+  ]
+}
